@@ -1,0 +1,10 @@
+D:\POOJA\Naresh_It_\MVC\Notepad\Notepad\bin\Debug\Notepad.exe.config
+D:\POOJA\Naresh_It_\MVC\Notepad\Notepad\bin\Debug\Notepad.exe
+D:\POOJA\Naresh_It_\MVC\Notepad\Notepad\bin\Debug\Notepad.pdb
+D:\POOJA\Naresh_It_\MVC\Notepad\Notepad\obj\Debug\Notepad.csproj.AssemblyReference.cache
+D:\POOJA\Naresh_It_\MVC\Notepad\Notepad\obj\Debug\Notepad.Form1.resources
+D:\POOJA\Naresh_It_\MVC\Notepad\Notepad\obj\Debug\Notepad.Properties.Resources.resources
+D:\POOJA\Naresh_It_\MVC\Notepad\Notepad\obj\Debug\Notepad.csproj.GenerateResource.cache
+D:\POOJA\Naresh_It_\MVC\Notepad\Notepad\obj\Debug\Notepad.csproj.CoreCompileInputs.cache
+D:\POOJA\Naresh_It_\MVC\Notepad\Notepad\obj\Debug\Notepad.exe
+D:\POOJA\Naresh_It_\MVC\Notepad\Notepad\obj\Debug\Notepad.pdb
